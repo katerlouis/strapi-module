@@ -57,7 +57,7 @@
     "nuxt": "2.15.3",
     "siroc": "^0.8.0",
     "standard-version": "^9.1.1",
-    "ts-loader": "^8.0.18",
+    "ts-loader": "^9.1.1",
     "typescript": "^4.2.3",
     "vuex": "^3.6.2"
   },
