@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "docus": "^0.1.5",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.4"
   },
   "devDependencies": {
     "vue-plausible": "^1.1.4"
